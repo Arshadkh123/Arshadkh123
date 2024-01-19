@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Arshadkh123
+- 👋 Hi, I’m Arshad khan
+- My profile name is @ArshadKh123
 - 👀 I’m interested in coding blogging and teaching the tech things
 - 🌱 I’m currently learning c, python and java. 
 - 💞️ I’m looking to collaborate on 
