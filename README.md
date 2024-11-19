@@ -11,7 +11,6 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on **Bank Management System**
 - 📫 How to reach me: arshadkh1453@gmail.com
 
 <h3 align="left">Connect with me:</h3>
